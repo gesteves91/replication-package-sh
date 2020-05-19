@@ -40,7 +40,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](License.md
 
 <h4> Acknowledgments </h4>
 
-We would like to thank [https://ghtorrent.org/] (GHTorrent) as it was the main provider of the data
+We would like to thank [GHTorrent] (https://ghtorrent.org/) as it was the main provider of the data
 
 
 
