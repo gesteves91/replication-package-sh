@@ -14,7 +14,7 @@ You need to have installed some packages to use our replication project. The *re
 
 Practical example assuming you are in the root project:
 
-```bash
+```shell
 virtualenv -p python3 venv
 source venv/bin/activate
 python3 install -r requirements.txt
